@@ -3,4 +3,4 @@
 пиу
 пес
 меч
-![Alt text](image.png)
+<img src="image/image.jpg" alt="cat">
